@@ -9,6 +9,7 @@ It includes the Playwright setup, basic test scripts, configuration, and documen
 ## 📘 Documentation
 
 - [Installing Playwright Guide (Word Document)](docs/Installing%20Playwright.docx)
+- [Web Orders Launch Test – Explained (Markdown)](docs/web-orders-launch-explained.md)
 
 This guide walks you through how to set up Playwright from scratch using VS Code, Node.js, and the terminal.
 
