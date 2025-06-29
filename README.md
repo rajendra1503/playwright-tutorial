@@ -19,7 +19,7 @@ This guide walks you through how to set up Playwright from scratch using VS Code
 ### 📂 Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/playwright-tutorial.git
+git clone https://github.com/rajendra1503/playwright-tutorial.git
 cd playwright-tutorial
 ```
 
