@@ -11,6 +11,30 @@ It includes the Playwright setup, basic test scripts, configuration, and documen
 - [Installing Playwright Guide (Word Document)](docs/Installing%20Playwright.docx)
 - [Web Orders Launch Test – Explained (Markdown)](docs/web-orders-launch-explained.md)
 
+### 🔍 Locator Tests and Their Documentation
+
+- [getByRole Test Script](tests/locators-by-role.spec.js)
+- [getByRole – Explained](docs/locators-by-role-explained.md)
+
+- [getByLabel Test Script](tests/locators-by-label.spec.js)
+- [getByLabel – Explained](docs/locators-by-label-explained.md)
+
+- [getByPlaceholder Test Script](tests/locators-by-placeholder.spec.js)
+- [getByPlaceholder – Explained](docs/locators-by-placeholder-explained.md)
+
+- [getByText Test Script](tests/locators-by-text.spec.js)
+- [getByText – Explained](docs/locators-by-text-explained.md)
+
+- [getByAltText Test Script](tests/locators-by-alttext.spec.js)
+- [getByAltText – Explained](docs/locators-by-alttext-explained.md)
+
+- [getByTitle Test Script](tests/locators-by-title.spec.js)
+- [getByTitle – Explained](docs/locators-by-title-explained.md)
+
+- [getByTestId Test Script](tests/locators-by-testid.spec.js)
+- [getByTestId – Explained](docs/locators-by-testid-explained.md)
+
+
 This guide walks you through how to set up Playwright from scratch using VS Code, Node.js, and the terminal.
 
 ---
